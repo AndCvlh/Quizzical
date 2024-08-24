@@ -4,7 +4,6 @@ import he from "he";
 import Game from "./components/Game"
 //using he to help to decode special characters
 
-
 export default function App (){
 
   //consts
